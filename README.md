@@ -85,3 +85,7 @@ All your functions (inside and outside a class) should have a documentation (pyt
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
+
+Authors 
+Afia Adobea Owusu-Asare <adobea_afia@yahoo.com>
+Mouyssi Abdlelkrim <mouyssi.abdelkrim@gmail.com>
