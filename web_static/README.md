@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. AirBnB clone - Web static
 
 ## Learning Objectives:bulb:
@@ -69,3 +70,25 @@ What you should learn from this project:
 
 ### [12. Accessibility](./103-index.html)
 * Improve the page by adding Accessibility supportOpen with
+=======
+# AirBnB clone - Web static
+# 0x01. AirBnB clone - Web static
+At the end of this project you are expected to be able to explain to anyone, without the help of Google:
+* What is HTML?
+* How do you create an HTML page?
+* What is a markup language?
+* What is the DOM?
+* What is an element / tag?
+* What is an attribute?
+* How does the browser load a webpage?
+* What is CSS?
+* How do you add style to an element?
+* What is a class?
+* What is a selector?
+* How do you compute CSS Specificity Value?
+* What are Box properties in CSS?
+
+Authors 
+Afia Adobea Owusu-Asare <adobea_afia@yahoo.com>
+Mouyssi Abdlelkrim <mouyssi.abdelkrim@gmail.com>
+>>>>>>> c1e49da423253cf897c29ace75551e3414ea75f9
